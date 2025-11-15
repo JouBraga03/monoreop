@@ -1,0 +1,8 @@
+{
+  "name": "@hot-setup/app-community",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "app-community"
+  }
+}
